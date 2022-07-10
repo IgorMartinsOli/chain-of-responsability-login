@@ -1,0 +1,7 @@
+com\mycompany\chain\of\responsability\login\VerificaTamanho.class
+com\mycompany\chain\of\responsability\login\VerificaMaiusculo.class
+com\mycompany\chain\of\responsability\login\BaseVerificaSenha.class
+com\mycompany\chain\of\responsability\login\CaracterEspecial.class
+com\mycompany\chain\of\responsability\login\client.class
+com\mycompany\chain\of\responsability\login\VerificaMinusculo.class
+com\mycompany\chain\of\responsability\login\VerificaSenha.class
